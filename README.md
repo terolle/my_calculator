@@ -1,1 +1,0 @@
-"Mi primer fichero en mi primer repositorio, <Rafael Fernando LLoret Martínez>"
